@@ -105,8 +105,8 @@ ol{
 
 
 
-ol li{
-    /* margin-left: 10px;
+/* ol li{
+    margin-left: 10px;
     margin-bottom: 5px;
     border-right: 1px solid black;
     padding-right: 10px;
@@ -114,8 +114,8 @@ ol li{
     transition: .5s;
     font-size: calc(12px + 2vw) ;
     border-top: 1px;
-    border-bottom: 1px solid grey; */
-}
+    border-bottom: 1px solid grey; 
+}*/
 
 .enlaces{
     font-family: 'IBM Plex Sans', sans-serif;
